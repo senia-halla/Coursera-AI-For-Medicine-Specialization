@@ -1,5 +1,6 @@
 # Coursera-AI-For-Medicine-Specialization
-##Overview
+## Overview
+
 In this Specialization, you gained practical experience applying machine learning to concrete problems in medicine. You learned how to diagnose chest x-rays and brain scans, evaluate your models, handle missing data, and estimate the effect of treatments. Now you can help transform the practice of medicine worldwide. You can go on to pursue a career in the medical industry as a data scientist, machine learning engineer, innovation officer, or business analyst.
 
 
