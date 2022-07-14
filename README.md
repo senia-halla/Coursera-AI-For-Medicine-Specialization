@@ -15,3 +15,8 @@ It contains 3 Courses :
 
 3 - AI For Medical Treatment
 
+## Certificate
+* [Verified Certificate - Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/5ZSHSS2RZ4HK)
+
+## References
+[[1] AI for medicine Specialization - DeepLearning.AI](https://www.coursera.org/specializations/ai-for-medicine)
